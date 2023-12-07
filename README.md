@@ -20,7 +20,3 @@ This Python script is specifically designed to gather information and prepare ro
 ### Additional Notes
 - **Security**: As the script deals with sensitive information, including client secrets, ensure it is run in a secure environment with appropriate permissions.
 - **Dependencies**: Requires Azure CLI and a Python environment capable of executing subprocess commands.
-
----
-
-This readme enhancement clearly outlines the script's specific role in the context of Check Point Management, detailing its importance in the automated onboarding process of Azure Gateways to Check Point Management systems.
